@@ -1,4 +1,4 @@
-# 🛡️ Langchain Chatbot Guide for Catastrophe Preparation
+# 🛡️ Langchain Chatbot Guide for Catastrophe Preparation (Offline Use Only)
 
 An AI-powered assistant designed to provide accurate emergency preparedness advice based on official guidance from the **BBK (Bundesamt für Bevölkerungsschutz und Katastrophenhilfe)**.
 
